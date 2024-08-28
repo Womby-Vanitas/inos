@@ -1,10 +1,3 @@
-/* 이 소스는 에듀이노(Eduino)에 의해서 번역, 수정, 작성되었고 소유권 또한 에듀이노의 것입니다.
-    소유권자의 허락을 받지 않고 무단으로 수정, 삭제하여 배포할 시 법적인 처벌을 받을 수도 있습니다.
-
-    에듀이노 SmartCar 예제
-    - 스마트 자동차 검정색 라인을 따라 스스로 움직이는 예제 -
-*/
-
 int RightMotor_E_pin = 5;                                        // 오른쪽 모터의 Enable & PWM
 int LeftMotor_E_pin = 6;                                         // 왼쪽 모터의 Enable & PWM
 int RightMotor_1_pin = 8;                                        // 오른쪽 모터 제어선 IN1
